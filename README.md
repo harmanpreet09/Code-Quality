@@ -12,7 +12,11 @@ https://codescene.com/blog/measuring-the-business-impact-of-low-code-quality
 Over the past ten years, the primary focus has been on exploring innovative methods for managing technical debt. I have delivered numerous presentations on the subject of technical debt and authored two books dedicated to achieving success in large-scale software projects. The work has afforded me the opportunity to collaborate with a wide range of organizations worldwide, from which It have gained valuable insights.
 Moreover, having a deep understanding of your code's health offers several benefits, including risk reduction, clearer alignment of expectations, and increased empowerment of development teams. When you possess insights into your code's health, you can leverage this information when planning and prioritizing features. For instance, if you identify "Red Code" during planning, it signifies that the associated feature carries a) higher risk, b) greater development time requirements, and c) a higher level of uncertainty regarding completion time.
 
+# Article 3
+# Identification of strategies over tools for static code analysis
+https://iopscience.iop.org/article/10.1088/1757-899X/1163/1/012012/meta
 
+This article discusses the growing utilization of static code analysis tools to enhance the quality of source code, emphasizing its pivotal role in software product development, necessitating continuous monitoring and examination. Static code analysis serves as a reliable means to deduce program behavior without its actual execution. A multitude of tools are available for static analysis, tailored to various frameworks, programming languages, and defect detection in source code. While different strategies for employing static code analysis tools exist, they have not been systematically categorized. The paper presents an experiment that evaluates various tools and their integration within the standard code review process. It identifies distinct strategies for utilizing these tools and outlines the essential steps for their successful implementation. Users are encouraged to select one of these strategies and follow the prescribed steps when integrating the tool into their workflow.
 
 
 
