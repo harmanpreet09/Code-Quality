@@ -28,6 +28,29 @@ WordPress's widespread popularity is attributed to its flexibility and the ease 
 # comparison of all the Articles
 Comparing all the articles the outcome is that these articles collectively stress the importance of code quality in diverse contexts, including research, business impact, software development, and website performance. They highlight the need for proper coding practices, tools, and strategies to ensure the delivery of high-quality and reliable software solutions.
 
+# Summary checklist of the above articles are :-
+1.Recognising the impact of journal policies on code re-execution.
+2.Empower development teams through code health insights.
+3.Utilization of static code analysis tools.
+4.Clear Alignment of expectations.
+5.User experience and server performance 
+6.Aligning all the expectations.
+
+# Comaparision between the both links provided.
+1.Never Allow the bad code with good comments.
+2.The units of the code should be testable.
+3.Code should be easy to read and understandable.
+
+#comparing my checklit with checklist with links
+1.The provided checklist items seem to focus on a broader perspective of understanding code quality implications, including the impact on users, development teams, and alignment of expectations.
+2.The code review checklist items from the comparison mainly emphasize writing good, readable, and testable code, with a particular emphasis on not masking poor code with good comments.
+
+# Revising the points
+1.Code should be understable and easy to acesss.
+
+
+
+
 
 
 
