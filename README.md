@@ -48,7 +48,7 @@ Comparing all the articles the outcome is that these articles collectively stres
 # Revising the points
 1.Code should be understable and easy to acesss.
 
-
+I would like to give myself 3 out of 4.
 
 
 
